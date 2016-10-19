@@ -1,6 +1,7 @@
 [
     {
     "ID":"HOME",
+    "HidePrevKeyb":true,
     "Text":"Benvenuto/a, scegli la una favola",
     "Button":[{"Text":"Una  favola  per  Gionata","ID":"FAV1_TITLE"}]
     },
@@ -22,6 +23,7 @@
    {
       "ID":"FAV1_IMG2",
       "IDNEXT":"FAV1_TEXT2",
+      "HidePrevKeyb":true,
       "Image":"AgADBAADDKgxG9f07QXB6Hh6-lU-SO0FYBkABJ5pnMOvHMi1mxMAAgI"
    },
     {
@@ -32,6 +34,7 @@
    {
       "ID":"FAV1_IMG3",
       "IDNEXT":"FAV1_TEXT3",
+       "HidePrevKeyb":true,
       "Image":"AgADBAADDagxG9f07QX4fkLxaGsktqY5XhkABMFajGUm1zXF2ZgCAAEC"
    },
     {
