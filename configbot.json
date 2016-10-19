@@ -12,8 +12,7 @@
    {
       "ID":"FAV1_IMG1",
       "IDNEXT":"FAV1_TEXT1",
-       "Text":" ",
-      "Image":"AgADBAAD9qcxG9f07QVcoNCIsEOVPzZeZhkABHFpbv9xYEmeVlABAAEC"
+      "Image":"AgADBAADC6gxG9f07QWesscmo6FONQkbZhkABLxSpK0tFeQkDwwAAgI"
    },
     {
     "ID":"FAV1_TEXT1",
@@ -23,7 +22,6 @@
    {
       "ID":"FAV1_IMG2",
       "IDNEXT":"FAV1_TEXT2",
-       "Text":" ",
       "Image":"AgADBAADDKgxG9f07QXB6Hh6-lU-SO0FYBkABJ5pnMOvHMi1mxMAAgI"
    },
     {
@@ -34,7 +32,6 @@
    {
       "ID":"FAV1_IMG3",
       "IDNEXT":"FAV1_TEXT3",
-       "Text":" ",
       "Image":"AgADBAADDagxG9f07QX4fkLxaGsktqY5XhkABMFajGUm1zXF2ZgCAAEC"
    },
     {
