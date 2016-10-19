@@ -1,6 +1,43 @@
 [
     {
     "ID":"HOME",
-    "Text":"Benvenuto nel Menu di IperBOT\nInstallazione eseguita correttamente"
+    "Text":"Benvenuto/a, scegli la una favola",
+    "Button":[{"Text":"Una  favola  per  Gionata","ID":"FAV1_TITLE"}]
+    },
+    {
+    "ID":"FAV1_TITLE",
+    "IDNEXT":"FAV1_IMG1",
+    "Text":"Una  favola  per  Gionata\nEdizioni #abbracciebaci"
+    },
+   {
+      "ID":"FAV1_IMG1",
+      "IDNEXT":"FAV1_TEXT1",
+      "Image":"AgADBAAD9qcxG9f07QVcoNCIsEOVPzZeZhkABHFpbv9xYEmeVlABAAEC"
+   },
+    {
+    "ID":"FAV1_TEXT1",
+    "Text":"Da’ un bacio a papà, tesoro: si è fatto tardi!\"Non voglio dormire da solo!\"  sibilò Gionata visibilmente contrariato. \"Ti racconterò una bella storia\"  propose  la  mamma.",
+    "Button":[{"Text":"Avanti","ID":"FAV1_IMG2"}]
+    },
+   {
+      "ID":"FAV1_IMG2",
+      "IDNEXT":"FAV1_TEXT2",
+      "Image":"AgADBAADDKgxG9f07QXB6Hh6-lU-SO0FYBkABJ5pnMOvHMi1mxMAAgI"
+   },
+    {
+    "ID":"FAV1_TEXT2",
+    "Text":"\"Una storia di avventure?\"  gridò eccitato il bimbo dagli occhi color ambra che nel frattempo era balzato in piedi sul letto e aveva iniziato a saltare come una molla.",
+    "Button":[{"Text":"Avanti","ID":"FAV1_IMG3"}]
+    },
+   {
+      "ID":"FAV1_IMG3",
+      "IDNEXT":"FAV1_TEXT3",
+      "Image":"AgADBAADDagxG9f07QX4fkLxaGsktqY5XhkABMFajGUm1zXF2ZgCAAEC"
+   },
+    {
+    "ID":"FAV1_TEXT3",
+    "Text":"Chiuse  gli occhi e si ritrovò di colpo in un grande prato: inseguiva una piccola volpe che correva spaventata. Il vento gli scompigliava i capelli ed il calore del sole si faceva più intenso.",
+    "Button":[{"Text":"Menu iniziale","ID":"HOME"}]
     }
+
 ]    
