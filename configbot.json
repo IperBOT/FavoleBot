@@ -17,7 +17,12 @@
    },
     {
     "ID":"FAV1_TEXT1",
-    "Text":"Da’ un bacio a papà, tesoro: si è fatto tardi!\"Non voglio dormire da solo!\"  sibilò Gionata visibilmente contrariato. \"Ti racconterò una bella storia\"  propose  la  mamma.",
+    "IDNEXT":"FAV1_VOICE1",
+    "Text":"Da’ un bacio a papà, tesoro: si è fatto tardi!\"Non voglio dormire da solo!\"  sibilò Gionata visibilmente contrariato. \"Ti racconterò una bella storia\"  propose  la  mamma."   
+    },
+    {
+    "ID":"FAV1_VOICE1",
+    "Voice":"AwADBAADGgAD1_TtBbe3h77z3vKnAg",    
     "Button":[{"Text":"Avanti","ID":"FAV1_IMG2"}]
     },
    {
