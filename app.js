@@ -26,7 +26,7 @@ a.style.visibility="hidden";
 
 	
  //Carica dati
- $http.get("configbot.json.json")
+ $http.get("configbot.json")
     .then(function(response) {
         $scope.entity = response.data;
     });
