@@ -33,7 +33,12 @@
    },
     {
     "ID":"FAV1_TEXT2",
-    "Text":"\"Una storia di avventure?\"  gridò eccitato il bimbo dagli occhi color ambra che nel frattempo era balzato in piedi sul letto e aveva iniziato a saltare come una molla.",
+    "IDNEXT":"FAV1_VOICE2",
+    "Text":"\"Una storia di avventure?\"  gridò eccitato il bimbo dagli occhi color ambra che nel frattempo era balzato in piedi sul letto e aveva iniziato a saltare come una molla."
+    },
+    {
+    "ID":"FAV1_VOICE2",
+    "Voice":"AwADBAADAgADMDEfEXolnEIadVVLAg",    
     "Button":[{"Text":"Avanti","ID":"FAV1_IMG3"}]
     },
    {
